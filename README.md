@@ -1,6 +1,7 @@
 # Student Q&A Platform API
 
 A RESTful Q&A API for university students, built with **FastAPI**, **PostgreSQL**, **SQLAlchemy** (async), and **JWT authentication**. Students can register, post questions, reply to others, and manage their own content. Includes database migrations with Alembic and a full test suite with pytest.
+**Live API:** https://student-qa-api-production.up.railway.app/docs
 
 ---
 
